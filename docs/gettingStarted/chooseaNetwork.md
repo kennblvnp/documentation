@@ -9,5 +9,5 @@ Use one of these test or production endpoints as your Ethereum client provider. 
 | INFURAnet | test network       | https://infuranet.infura.io/your-api-key                                             |
 | Kovan     | test network       | https://kovan.infura.io/your-api-key                                                 |
 | Rinkeby   | test network       | https://rinkeby.infura.io/your-api-key                                               |
-| IPFS      | gateway            | https://ipfs.infura.io/ipfs/                                                         |
-| IPFS      | API                | https://ipfs.infura.io:5001/api/                                                     |
+| IPFS      | gateway            | https://ipfs.infura.io/ipfs/your-api-key                                             |
+| IPFS      | API                | https://ipfs.infura.io:5001/api/your-api-key                                         |
